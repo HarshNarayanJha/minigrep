@@ -1,0 +1,7 @@
+[package]
+name = "minigrep"
+version = "0.1.0"
+description = "A minified grep written in Rust"
+edition = "2021"
+
+[dependencies]
